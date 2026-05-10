@@ -1,5 +1,5 @@
 # MP3-Parsing-Project
-Parsing for Japanese Study - MP3 Createn
+Parsing for Japanese Study - MP3 Creater
 # Japanese Textbook Audiobook Creator
 
 **A practical language-learning tool built through human-AI collaboration**
