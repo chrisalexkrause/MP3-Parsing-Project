@@ -49,8 +49,4 @@ Successfully processes **~3,700 sentences** from a full Japanese textbook, turni
 
 **Status**: Actively used for daily Japanese listening practice.
 
----
 
-This version is ready to use. It tells a compelling story, shows technical depth, demonstrates collaboration skills, and highlights learning outcomes — all while remaining concise.
-
-Would you like any adjustments (shorter version, more technical tone, or emphasis on specific aspects)?
